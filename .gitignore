@@ -8,3 +8,4 @@ DrQA/data/
 DrQA/*.tar.gz
 DrQA/*.egg-info
 DrQA/scripts/reader/official_eval.py
+DrQA/venv/
