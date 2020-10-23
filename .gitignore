@@ -1,0 +1,10 @@
+.DS_Store
+
+# DrQA stuff
+DrQA/*.pyc
+DrQA/*.DS_Store
+DrQA/*~
+DrQA/data/
+DrQA/*.tar.gz
+DrQA/*.egg-info
+DrQA/scripts/reader/official_eval.py
