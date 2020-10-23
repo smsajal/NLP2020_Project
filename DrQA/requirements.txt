@@ -1,6 +1,5 @@
 certifi==2020.6.20
 click==7.1.2
--e git+git@github.com:smsajal/NLP2020_Project.git@1f73cdc742695198b679b82a5b9e12a87d9ac760#egg=drqa&subdirectory=DrQA
 elasticsearch==7.9.1
 joblib==0.17.0
 nltk==3.5
