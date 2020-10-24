@@ -9,3 +9,15 @@ DrQA/*.tar.gz
 DrQA/*.egg-info
 DrQA/scripts/reader/official_eval.py
 DrQA/venv/
+
+
+# QA_overlap stuff
+QA_Overlap/
+
+#qa-hard-em stuff
+qa-hard-em/__pycache__/
+qa-hard-em/open-domain-qa-data/
+qa-hard-em/preprocessed-open-domain-qa-data/
+qa-hard-em/uncased_L-12_H-768_A-12/
+qa-hard-em/out/
+qa-hard-em/venv/
